@@ -12,3 +12,11 @@ if flag:
     print("{}是廻文".format(w))
 else:
     print("{}不是廻文".format(w))
+
+
+'''
+
+輸入英文單字：level
+level是廻文
+
+'''

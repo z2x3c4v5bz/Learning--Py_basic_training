@@ -10,3 +10,11 @@ for i in range(len(Data)):
         break
 else:
     print('無 %s 的資料' % searchname)
+
+
+'''
+
+輸入查詢的姓名 : Mary
+Mary 的電話號碼為 0928000001
+
+'''

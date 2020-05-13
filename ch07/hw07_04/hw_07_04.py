@@ -28,3 +28,11 @@ def myfun(n):
 usern = eval(input('Give me a number : '))
 print('%d = ' % usern, end='')
 myfun(usern)
+
+
+'''
+
+Give me a number : 280
+280 = 2 * 2 * 2 * 5 * 7
+
+'''

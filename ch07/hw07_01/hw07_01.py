@@ -15,3 +15,11 @@ while True:
         print('Error!')
 
 print('%d' % myfun(usern))
+
+
+'''
+
+n = 5
+25 + 16 + 9 + 4 + 1 = 55
+
+'''

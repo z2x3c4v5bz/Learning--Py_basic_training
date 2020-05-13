@@ -10,3 +10,14 @@ def makesentence():
 
 for i in range(5):
     makesentence()
+
+
+'''
+
+Cat walks quickly.
+Fox jumps slowly.
+Monkey jumps slowly.
+Pig jumps slowly.
+Monkey walks quickly.
+
+'''

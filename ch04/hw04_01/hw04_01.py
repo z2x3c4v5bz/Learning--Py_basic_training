@@ -10,3 +10,14 @@ for i in range(5):
         print('')
     else:
         break
+
+
+'''
+
+    1
+   21
+  321
+ 4321
+54321
+
+'''

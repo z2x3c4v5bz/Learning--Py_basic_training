@@ -17,3 +17,16 @@ while True:
         continue
     print('{0} / {1} = {2}'.format(dividend, divisor, dividend / divisor))
     break
+
+
+'''
+
+輸入被除數 : 2.4
+輸入錯誤,請輸入整數
+輸入被除數 : 24
+輸入除數 : 0
+除數為0,請重新輸入
+輸入除數 : 5
+24 / 5 = 4.8
+
+'''

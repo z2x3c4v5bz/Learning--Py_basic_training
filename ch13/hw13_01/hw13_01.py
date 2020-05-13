@@ -17,4 +17,14 @@ for n in range(9, len(link) - 1):
 print('\n特別號碼 :', end=' ')
 print(link[-1].text)
 
-input("Press Enter...")
+input("Press Enter to continue . . .")
+
+
+'''
+
+本期大樂透開獎結果如下 :
+號碼順序 : 01  05  08  11  35  36
+特別號碼 : 26
+Press Enter to continue . . .
+
+'''

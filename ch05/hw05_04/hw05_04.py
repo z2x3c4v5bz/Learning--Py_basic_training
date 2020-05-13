@@ -23,3 +23,21 @@ for i in range(len(arra)):
             x += arra[i][k] * arrb[k][j]
         print('%d ' % x, end='')
     print('')
+
+
+'''
+
+矩陣 A
+1 2 3
+4 5 6
+
+矩陣 B
+1 2
+3 6
+4 2
+
+矩陣 A * 矩陣 B
+19 20
+43 50
+
+'''

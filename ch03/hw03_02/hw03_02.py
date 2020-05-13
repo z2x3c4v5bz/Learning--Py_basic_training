@@ -10,3 +10,11 @@ elif (season == 12) or (season == 1) or (season == 2):
     print('冬天')
 else:
     print('輸入錯誤！')
+
+
+'''
+
+請輸入一個1~12之間的月份: 6
+夏天
+
+'''

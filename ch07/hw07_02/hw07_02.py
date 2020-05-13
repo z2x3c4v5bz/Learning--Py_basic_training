@@ -18,3 +18,11 @@ for i in range(1, usern + 1):
     else:
         print('%d' % (i * (i + 1)), end=' = ')
 print('%d' % myfun(usern + 1))
+
+
+'''
+
+n = 5
+2 + 6 + 12 + 20 + 30 = 70
+
+'''
