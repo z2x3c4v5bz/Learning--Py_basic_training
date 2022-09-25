@@ -1,12 +1,17 @@
 # hw08_01
 
-for i in range(1, 9+1):
-    for j in range(1, 9+1):
-        print("{0:2}".format(i*j), end=' ')
-    print("")
+
+if __name__ == '__main__':
+
+    for i in range(1, 9 + 1):
+
+        for j in range(1, 9 + 1):
+            print("{0:2}".format(i*j), end=' ')
+
+        print("")
     
 
-'''
+''' Output
 
  1  2  3  4  5  6  7  8  9
  2  4  6  8 10 12 14 16 18
