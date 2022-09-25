@@ -1,13 +1,19 @@
 # hw05_01
-num = [x for x in range(1,10)]
-
-for i in num:
-    for j in num:
-        print("%2d" % (i * j), end = ' ')
-    print('')
 
 
-'''
+if __name__ == '__main__':
+
+    num = [x for x in range(1,10)]
+
+    for i in num:
+
+        for j in num:
+            print("%2d" % (i * j), end = ' ')
+
+        print('')
+
+
+''' Output
 
  1  2  3  4  5  6  7  8  9
  2  4  6  8 10 12 14 16 18
