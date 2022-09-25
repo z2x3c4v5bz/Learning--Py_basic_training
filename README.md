@@ -1,6 +1,6 @@
 # Python 基礎必修課（習題個人解答） #
 
-[![issue](https://img.shields.io/github/discussions/z2x3c4v5bz/Learning--Py_basic_training)](https://github.com/z2x3c4v5bz/Learning--Py_basic_training/discussions)
+[![discussions](https://img.shields.io/github/discussions/z2x3c4v5bz/Learning--Py_basic_training)](https://github.com/z2x3c4v5bz/Learning--Py_basic_training/discussions)
 [![forks](https://img.shields.io/github/forks/z2x3c4v5bz/Learning--Py_basic_training)](https://github.com/z2x3c4v5bz/Learning--Py_basic_training/network)
 [![stars](https://img.shields.io/github/stars/z2x3c4v5bz/Learning--Py_basic_training)](https://github.com/z2x3c4v5bz/Learning--Py_basic_training/stargazers)
 [![release](https://img.shields.io/github/release/z2x3c4v5bz/Learning--Py_basic_training/all)](https://github.com/z2x3c4v5bz/Learning--Py_basic_training/releases)
@@ -30,7 +30,7 @@
 
 ※ 請留意，文中數學公式在瀏覽器頁面中可能無法正確顯示。
 
-※ 圖書封面、章節內容、圖書資訊、習題皆為版權作者、出版商所有，本站所刊內容僅供教育、學習使用。
+※ 圖書封面、圖書資訊、章節內容、習題皆為版權作者、出版商所有，本站所刊內容僅供教育、學習使用。
 
 ## Table of Contents ##
 
