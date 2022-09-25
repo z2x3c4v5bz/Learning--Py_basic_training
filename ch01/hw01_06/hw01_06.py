@@ -1,10 +1,13 @@
 # hw01_06
-print('3 X 4 X 5 =', end=' ')
-print(3 * 4 * 5)
 
 
-'''
+if __name__ == '__main__':
 
-3 X 4 X 5 = 60
+    print('3 × 4 × 5 = {}'.format(3 * 4 * 5))
+
+
+''' Output
+
+3 × 4 × 5 = 60
 
 '''

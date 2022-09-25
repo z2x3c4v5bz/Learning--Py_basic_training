@@ -1,9 +1,12 @@
 # hw01_05
-print('3 + 4 =', end=' ')
-print(3 + 4)
 
 
-'''
+if __name__ == '__main__':
+    
+    print('3 + 4 = {}'.format(3 + 4))
+
+
+''' Output
 
 3 + 4 = 7
 
