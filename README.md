@@ -8,9 +8,11 @@
 
 ## Abstract ##
 
-**Title:** Python 基礎必修課
+**Title:** Python基礎必修課(含MTA Python微軟國際認證模擬試題)
 
-**Auther:** 蔡文龍、張志成、何嘉益、張力元
+**Auther:** 蔡文龍、張志成、何嘉益、張力元、吳明哲
+
+**Publisher:** 碁峯資訊股份有限公司
 
 **Introduction:**
 
